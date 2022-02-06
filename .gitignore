@@ -1,0 +1,10 @@
+# Files and directories created by pub.
+.firebase/
+.firebaserc
+firebase.json
+.dart_tool/
+.packages
+.vscode/
+
+# Conventional directory for build output.
+build/
